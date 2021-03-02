@@ -47,3 +47,20 @@ Untracked files were not in the last snapshot and do not currently reside in the
 3- Then, if you want to save these changes commit these staged changes.
 
 ![](https://blog.udemy.com/wp-content/uploads/2015/08/image006.png)
+## **Check File Status**
+To figure out your file status, use git status command
+## **Tracking and Staging a New File**
+Use the command git add filename to track a single file. And for tracking all files in a repository by using the following command:
+git add *
+## **Committing a File**
+After staging one or multiple files, you should commit the changes and record what you did within the commit message:
+
+$ git commit -m “made change x,y,z”
+For committing all changes use the following command:
+$ git commit -a
+## **Pushing Changes**
+For exporting and pushing the changes to a remote repository, so others can see it, use the following command: 
+$ git push origin master
+## **Stashing Changes** 
+Use: Git Stash to temporarily removes changes and hides them, giving you a clean working directory. and When you are ready to continue working on the changes, simply use the git stash apply command to retrieve the hidden changes.
+
