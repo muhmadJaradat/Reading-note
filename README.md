@@ -8,6 +8,7 @@ So to understand the differences between a fixed and a growth mindset look at th
 #### *1.Challenges* 
 Growth mindset stats that if you faced a challenge and you thought that you are incapable of solving it,instead of leave it and walk away to your comfort zone, just try again and again, look for new ways and methods until you figure out the root causes of the problem. And as what Albert Einstein Said:
 > It’s not that I’m so smart, it’s just that I stay with problems longer.
+
 #### *2.Obstacles*
 When you had obstacles in any project you working on, and when you're not just walk stands on, walk away, and return when you're inspired.
 #### *3.Effort*
