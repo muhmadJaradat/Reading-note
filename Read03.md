@@ -42,3 +42,15 @@ Some elements will always appear to continue on the same line as their neighbour
 Examples of inline elements are
 
 ``<a>, <b>, <em>, and <img>.``
+# Grouping text & elements in a block
+### <div>
+this elements allows you to group a set of elements together in one block block-level box.
+
+Using an id or class attribute
+on the <div> element, however,
+means that you can create
+CSS style rules to indicate how
+much space the <div> element
+should occupy on the screen and
+change the appearance of all the
+elements contained within it.
