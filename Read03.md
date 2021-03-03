@@ -23,3 +23,22 @@ For adding comments in your code which will be not visible to the user you can u
 
 ```<!-- comment goes here -->```
 
+# Class attribute
+this will save you time if you want to modifiy several different elemants in the same way so you can identifiy these elements in a class. the example bellow shows how this can be done:
+
+```<p class="important">```
+
+now this paragraphg is identifiyed in 'important class'
+# Block elements
+Some elements will always appear to start on a new line in the browser window. These are known as block level elements.
+
+Examples of block elements are: 
+
+
+``<h1>, <p>, <ul>, and <li>``
+# Inline elements
+Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.
+
+Examples of inline elements are
+
+``<a>, <b>, <em>, and <img>.``
