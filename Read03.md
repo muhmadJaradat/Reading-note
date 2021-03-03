@@ -46,11 +46,14 @@ Examples of inline elements are
 ### <div>
 this elements allows you to group a set of elements together in one block block-level box.
 
-Using an id or class attribute
-on the <div> element, however,
-means that you can create
-CSS style rules to indicate how
-much space the <div> element
-should occupy on the screen and
-change the appearance of all the
-elements contained within it.
+Using an id or class attributeon the <div> element, however, means that you can create CSS style rules to indicate how much space the <div> element should occupy on the screen and change the appearance of all the elements contained within it. the following example shows how you can do it:
+
+``` <div id="header">
+<img src="images/logo.gif" alt="Anish Kapoor" />
+<ul>
+ <li><a href="index.html">Home</a></li>
+ <li><a href="biography.html">Biography</a></li>
+ <li><a href="works.html">Works</a></li>
+ <li><a href="contact.html">Contact</a></li>
+</ul>
+</div><!-- end of header --> ```  
