@@ -43,7 +43,7 @@ Examples of inline elements are
 
 ``<a>, <b>, <em>, and <img>.``
 # Grouping text & elements in a block
-### <div>
+### div
 this elements allows you to group a set of elements together in one block block-level box.
 
 Using an id or class attributeon the <div> element, however, means that you can create CSS style rules to indicate how much space the <div> element should occupy on the screen and change the appearance of all the elements contained within it. the following example shows how you can do it:
@@ -57,3 +57,33 @@ Using an id or class attributeon the <div> element, however, means that you can 
  <li><a href="contact.html">Contact</a></li>
 </ul>
 </div><!-- end of header --> ```  
+```
+### Span
+The <span> element acts like an inline equivalent of the ``<div>`` element. It is used to either:
+1.  Contain a section of text where there is no other suitable element to differentiate it from its surrounding text
+2. contain a number on inline elements , example:
+
+``` <p>Anish Kapoor won the Turner Prize in 1991 and
+ exhibited at the <span class="gallery">Tate
+ Modern</span> gallery in London in 2003.</p> ``` 
+ ``` 
+ usually you will see a class or id attribute is used with span elements:
+ * to explain why you used it
+ * and to impact the CSS styles to these elements
+ # IFrames 
+ An iframe is like a little window that has been cut into your page and in that window you can see another page. The term iframe is an abbreviation of inline frame.
+
+ The main use of iframe is to embed a google map into a page. However, the Ifram content can be any html page anywhere on the web.
+
+ An iframe is created using the iframe element. There are a few attributes that you will need to know to use it:
+ * src : The src attribute specifies the URL of the page to show in the frame.
+ * height: 
+ The src attribute specifies the URL of the page to show in the frame.
+ * width: The width attribute specifies the width of the iframe in pixels. the example bellow shows how you can do it:
+
+ ``` <iframe
+width="450"
+height="350"
+src="http://maps.google.co.uk/maps?q=moma+new+york
+&amp;output=embed">
+</iframe> ``` 
