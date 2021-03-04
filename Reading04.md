@@ -28,6 +28,7 @@ Javascript allows you to make the web pages more interactive to the user for exa
  **C** : How do I write a script for a web page?
 
  # A
+
  A script is a series of instructions that a computer can follow to achieve a goal.
 
  To write a script, you need to put your goal firstly, and then list the tasks that need to be completed to achive that goal.
@@ -37,9 +38,24 @@ Javascript allows you to make the web pages more interactive to the user for exa
  * Vocabulary: the word that computer can understand. 
 
  * Syntax : How you put those words together to create instructions computer can follow.
- # Expressions
- 
 
+ # Expressions and operators
+
+ **expressions** used to assign a value to a variable. There are two types of expressions: 
+
+ 1. Expressions that assign only a single value to the variable.
+``` var color = 'beige'; ```
+
+ 2. Expressions that use two or more values to return a single value to the variable.
+ ``` var area = 3 * 2;  ```
+
+ **Operators**  they are the things that expressions rely on; they allow programmers to create a single value from one or more values.
+
+ # ARITHMETI C OPERATORS
+
+ JavaScript contains the following mathematical operators, which you can use with numbers. You may remember some from math class.  
+ 
+![](1.png)
 
 
 
