@@ -27,7 +27,7 @@ Javascript allows you to make the web pages more interactive to the user for exa
 
  **C** : How do I write a script for a web page?
 
- # A
+# A
 
  A script is a series of instructions that a computer can follow to achieve a goal.
 
@@ -39,7 +39,7 @@ Javascript allows you to make the web pages more interactive to the user for exa
 
  * Syntax : How you put those words together to create instructions computer can follow.
 
- # Expressions and operators
+# Expressions and operators
 
  **expressions** used to assign a value to a variable. There are two types of expressions: 
 
@@ -51,11 +51,34 @@ Javascript allows you to make the web pages more interactive to the user for exa
 
  **Operators**  they are the things that expressions rely on; they allow programmers to create a single value from one or more values.
 
- # ARITHMETI C OPERATORS
+# ARITHMETIC OPERATORS
 
  JavaScript contains the following mathematical operators, which you can use with numbers. You may remember some from math class.  
- 
+
 ![](1.png)
+
+# STRING OPERATOR
+
+There is just one string operator: the+ symbol. It is used to join the strings on either side of it, for example:
+``` var firstName = 'Ivy ' 
+var lastName = ' Stone' 
+var ful l Name = f irstName + l astName ```
+``` 
+# FUNCTIONS
+Functions let you group a series of statements together to perform a specific task.  If different parts of a script repeat the same task, you canreuse the function (rather than repeating the same set of statements).
+
+**DECLARING A FUNCTION**
+
+you declare a function using the function keyword. you give the function a name followed by a parentheses. and then you can put your statments that perform that tasks in a code block between curly braces.
+
+![](2.png)
+
+Sometimes a function needs specific information to perform its task. In such cases, when you declare the function you give it parameters. insided the function, the parameters act like variables.
+
+![](3.jpg)
+
+
+
 
 
 
