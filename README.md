@@ -18,18 +18,18 @@ My [GitHub](https://github.com/muhmadJaradat)
 # Code 201 Reading Notes
 
 ### Table of contents:
-1. [class-01](https://muhmadjaradat.github.io/Reading-note/Code201/Read01)
-2. Assigment 2
-3. Assigment 3
-4. Assigment 4
-5. Assigment 5
-6. Assigment 6
-7. Assigment 7
-8. Assigment 8
-9. Assigment 9
-10. Assigment 10
-11. Assigment 11
-12. Assigment 12
-13. Assigment 13
-14. Assigment 14
-15. Assigment 15
+1. [Day 1](https://muhmadjaradat.github.io/Reading-note/Code201/Read01)
+2. day 2
+3. day 3
+4. day 4
+5. day 5
+6. day 6
+7. day 7
+8. day 8
+9. day 9
+10. day 10
+11. day 11
+12. day 12
+13. day 13
+14. day 14
+15. day 15
