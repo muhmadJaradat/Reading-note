@@ -55,4 +55,31 @@ The `<meta>` element is an empty element so it does not have a closing tag. It u
 
 ## HTML5 Layout
 
-HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them. They are still subject to change, but that has not stopped many web page authors using them already.
+HTML5 introduces a new set of elements that allow you to divide up the parts of a page with out using the `<div>` element. The names of these elements indicate the kind of content you will find in them. They are still subject to change, but that has not stopped many web page authors using them already. For example the header now can be sitted inside the `<header>` element and the navigation bar inside the `<nav>` element. The point of creating these new elements is so that web page authors can use them to help describe the structure of the page.
+
+### Headers & Footers
+
+The `<header>` and `<footer>` elements can be used for:
+
+* The main header or footer that appears at the top or bottom of every page on the site.
+
+* A header or footer for an individual article or section within the page.
+
+### Navigation
+
+The `<nav>` element is used to contain the major navigational blocks on the site such as the primary site navigation.
+
+### Articles
+
+The `<article>` element acts as a container for any section of a page that could stand alone and potentially be syndicated.
+
+### Sections
+
+The `<section>` element groups related content together, and typically each section would have its own heading.
+
+### Linking Around Block-Level Elements
+
+HTML5 allows web page authors to place an <a> element around a block level element that contains child elements. This allows you to turn an entire block into a link. for example:
+
+![](Code201/images/Read01-1.JPG)
+
