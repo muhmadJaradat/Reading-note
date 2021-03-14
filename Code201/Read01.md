@@ -81,5 +81,55 @@ The `<section>` element groups related content together, and typically each sect
 
 HTML5 allows web page authors to place an <a> element around a block level element that contains child elements. This allows you to turn an entire block into a link. for example:
 
-![](Code201/images/Read01-1.JPG)
+![](images/Read01-1.JPG)
+
+## PROCESS AND DESIGN
+
+There are several questions you should ask yourself when you're going to design a web page:
+
+* **Who is the Site For?**
+
+Every website should be designed for the target audience—not just for yourself or the site owner. It is therefore very important to understand who your target audience is.
+
+* **Why People Visit YOUR Website**
+
+Now that you know who your visitors are, you need to consider why they are coming. While some people will simply chance across your website, most will visit for a specific reason.
+
+* **What Your Visitors are Trying to Achieve**
+
+It is unlikely that you will be able to list every reason why someone visits your site but you are looking for key tasks and motivations. This information can help guide your site designs.
+
+* **What Information Your Visitors Need**
+
+You know who is coming to your site and why they are coming, so now you need to work out what information they need in order to achieve their goals quickly and effectively.
+
+* **How Often People Will Visit Your Site**
+
+Some sites benefit from being updated more frequently than others. Some information (such as news) may be constantly changing, while other content remains relatively static.
+
+### WireFrames
+
+A wireframe is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require. For example:
+
+![](images/Read01-2.JPG)
+
+## THE ABC OF PROGRAMMING
+
+### A : What is script and how do I create one?
+
+A script is a series of instructions that a computer can follow to achieve a goal. To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.
+
+### B : How computers fit in with the world around them
+
+ Computers create models of the world using data, where programmers who are responsible for build these models so the computer can understand it.
+
+ Computers use data to create models of things in the real world. The events, methods, and properties of an object all relate to each other: Events can trigger methods, and methods can retrieve or update an object's properties.
+
+### C : How do you write a script for a web page
+
+Web developers usually talk about three languages that are used to create web pages: HTML, CSS, and JavaScript. Where possible, aim to keep the three languages in separate files, with the HTML page linking to CSS and JavaScript files.
+
+Each language forms a separate layer with a different purpose. Each layer, from left to right. builds on the previous one.
+
+HTML resposible for the content layer, CSS for the presentation layer and the javascript for the behavior layer.
 
