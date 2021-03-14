@@ -18,8 +18,8 @@ My [GitHub](https://github.com/muhmadJaradat)
 # Code 201 Reading Notes
 
 ### Table of contents:
-* [Day 1](https://muhmadjaradat.github.io/Reading-note/Code201/Read01)
-* day 2
+* [Class-01](https://muhmadjaradat.github.io/Reading-note/Code201/Read01)
+* [Class-02](https://muhmadjaradat.github.io/Reading-note/Code201/Read02)
 * day 3
 * day 4
 * day 5

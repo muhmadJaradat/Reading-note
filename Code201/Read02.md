@@ -67,5 +67,69 @@ You can use CSS in HTML in three ways:
 
 There are many different types of CSS selector that allow you to target rules to specific elements in an HTML document. The table bellow shows these types:
 
-![](Reading-note/Images/read06b-3.JPG)
+![](/Images/read06b-3.JPG)
+
+## BASIC JAVA INSTRUCTIONS
+
+### Statments
+
+A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a **statement**. Statements should end with a semicolon.
+
+    var today= new Date{);    
+
+### COMMENTS
+
+You should write **comments** to explain what your code does.
+
+* **MULTI-LINE COMMENTS:** To write a comment that stretches over more than one line, you use a multi-line comment, starting with the /* characters and ending with the * / characters.
+
+* **SINGLE-LINE COMMENTS:** In a single-line comment, anything that follows the two forward slash characters I/ on that line will not be processed by the JavaScript interpreter.
+
+### Variables
+
+**Variable** is used to temporarily store the bits of information script needs to do its job. 
+
+To use variables, You need to declare them by creating them and giving them a name, this can be done by using `var` keyword with the variable name, for example:
+
+    var name;    
+
+### DATA TYPES
+
+1. **Numeric Data Type:** this data type consists of numbers
+
+2. **String Data Type:** this data type consists of letters and characters 
+
+3. **Boolean Data Type:** this data type can have one of two values" true or false
+
+### ARRAYS
+
+An array is a special type of variable. It doesn't just store one value; it stores a list of values.
+
+You create an array and give it a name just like you would any other variable (using the var keyword followed by the name of the array).
+
+```var colors;
+colors ['white', 'black', ' custom '];
+var el document.getElementByld('col ors');
+el . textContent = col ors[O];
+```
+
+Values in an array are accessed as if they are in a numbered list. It is important to know that the numbering of this list starts at zero (not one).
+
+### OPERATORS
+
+Operators allow programmers to create a single value from one or more values.
+
+* **ASSIGNMENT OPERATORS:** Assign a value to a variable:
+
+ ```color = 'beige';```
+
+* **COMPARISON OPERATORS:** Compare two values and return true or fa1se:
+  ```buy = 3 > 5;```
+
+* **LOGICAL OPERATORS:** Combine expressions and return true or false:
+```buy= (5 > 3) && (2 < 4);```
+
+* **ARITHMETIC OPERATORS:** Perform basic math:
+
+![](/1.png)
 
