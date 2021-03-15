@@ -20,7 +20,7 @@ My [GitHub](https://github.com/muhmadJaradat)
 ### Table of contents:
 * [Class-01](https://muhmadjaradat.github.io/Reading-note/Code201/Read01)
 * [Class-02](https://muhmadjaradat.github.io/Reading-note/Code201/Read02)
-* day 3
+* [Class-03](https://muhmadjaradat.github.io/Reading-note/Code201/Read03)
 * day 4
 * day 5
 * day 6
