@@ -25,7 +25,7 @@ My [GitHub](https://github.com/muhmadJaradat)
 * [Class-05](https://muhmadjaradat.github.io/Reading-note/Code201/Read05)
 * [Class-06](https://muhmadjaradat.github.io/Reading-note/Code201/Read06)
 * [Class-07](https://muhmadjaradat.github.io/Reading-note/Code201/Read07)
-* day 8
+* [Class-08](https://muhmadjaradat.github.io/Reading-note/Code201/Read08)
 * day 9
 * day 10
 * day 11
