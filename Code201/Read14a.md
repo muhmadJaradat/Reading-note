@@ -8,13 +8,12 @@ The transform property comes in two different settings, two-dimensional and thre
 
 The actual syntax for the transform property is quite simple, including the transform property followed by the value. The value specifies the transform type followed by a specific amount inside parentheses.
 
-```div {
+div {
   -webkit-transform: scale(1.5);
      -moz-transform: scale(1.5);
        -o-transform: scale(1.5);
           transform: scale(1.5);
 }
-```
 
 Notice how the transform property includes multiple vendor prefixes to gain the best support across all browsers. The un-prefixed declaration comes last to overwrite the prefixed versions, should a browser fully support the transform property.
 
@@ -26,25 +25,23 @@ Elements may be distorted, or transformed, on both a two-dimensional plane or a 
 
 The transform property accepts a handful of different values. The rotate value provides the ability to rotate an element from 0 to 360 degrees. Using a positive value will rotate an element clockwise, and using a negative value will rotate the element counterclockwise. The default point of rotation is the center of the element, 50% 50%, both horizontally and vertically.
 
-``` .box-1 {
+.box-1 {
   transform: rotate(20deg);
 }
 .box-2 {
   transform: rotate(-55deg);
 }
-```
 
 ### 2D Scale
 
 Using the scale value within the transform property allows you to change the appeared size of an element. The default scale value is 1, therefore any value between .99 and .01 makes an element appear smaller while any value greater than or equal to 1.01 makes an element appear larger.
 
-```  .box-1 {
+.box-1 {
   transform: scale(.75);
 }
 .box-2 {
   transform: scale(1.25);
 }
-```
 
 ### 2D Translate
 
@@ -56,7 +53,7 @@ As with the scale value, to set both the x and y axis values at once, use the tr
 
 The last transform value in the group, skew, is used to distort elements on the horizontal axis, vertical axis, or both. The syntax is very similar to that of the scale and translate values. Using the skewX value distorts an element on the horizontal axis while the skewY value distorts an element on the vertical axis. To distort an element on both axes the skew value is used, declaring the x axis value first, followed by a comma, and then the y axis value.
 
-``` .box-1 {
+.box-1 {
   transform: skewX(5deg);
 }
 .box-2 {
@@ -65,5 +62,3 @@ The last transform value in the group, skew, is used to distort elements on the 
 .box-3 {
   transform: skew(5deg, -20deg);
 }
-```
-
