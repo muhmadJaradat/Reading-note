@@ -8,7 +8,7 @@ The transform property comes in two different settings, two-dimensional and thre
 
 The actual syntax for the transform property is quite simple, including the transform property followed by the value. The value specifies the transform type followed by a specific amount inside parentheses.
 
-``` div {
+```div {
   -webkit-transform: scale(1.5);
      -moz-transform: scale(1.5);
        -o-transform: scale(1.5);
@@ -38,7 +38,7 @@ The transform property accepts a handful of different values. The rotate value p
 
 Using the scale value within the transform property allows you to change the appeared size of an element. The default scale value is 1, therefore any value between .99 and .01 makes an element appear smaller while any value greater than or equal to 1.01 makes an element appear larger.
 
-``` .box-1 {
+```  .box-1 {
   transform: scale(.75);
 }
 .box-2 {
