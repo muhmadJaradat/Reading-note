@@ -40,8 +40,8 @@ My [GitHub](https://github.com/muhmadJaradat)
 * [Class-01](https://muhmadjaradat.github.io/Reading-note/Code301/Read01)
 * [Class-02](https://muhmadjaradat.github.io/Reading-note/Code301/Read02)
 * [Class-03](https://muhmadjaradat.github.io/Reading-note/Code301/Read03)
-* [Class-04]
-* [Class-05]
+* [Class-04](https://muhmadjaradat.github.io/Reading-note/Code301/Read04)
+* [Class-05](https://muhmadjaradat.github.io/Reading-note/Code301/Read05)
 * [Class-06]
 * [Class-07]
 * [Class-08]
