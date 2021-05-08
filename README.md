@@ -42,11 +42,11 @@ My [GitHub](https://github.com/muhmadJaradat)
 * [Class-03](https://muhmadjaradat.github.io/Reading-note/Code301/Read03)
 * [Class-04](https://muhmadjaradat.github.io/Reading-note/Code301/Read04)
 * [Class-05](https://muhmadjaradat.github.io/Reading-note/Code301/Read05)
-* [Class-06]
-* [Class-07]
-* [Class-08]
-* [Class-09]
-* [Class-10]
+* [Class-06](https://muhmadjaradat.github.io/Reading-note/Code301/Read06)
+* [Class-07](https://muhmadjaradat.github.io/Reading-note/Code301/Read07)
+* [Class-08](https://muhmadjaradat.github.io/Reading-note/Code301/Read08)
+* [Class-09](https://muhmadjaradat.github.io/Reading-note/Code301/Read09)
+* [Class-10](https://muhmadjaradat.github.io/Reading-note/Code301/Read10)
 * [Class-11]
 * [Class-12]
 * [Class-13]
