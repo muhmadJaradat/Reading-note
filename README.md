@@ -57,7 +57,7 @@ My [GitHub](https://github.com/muhmadJaradat)
 
 ### Table of contents:
 
-* [Class-01]
+* [Class-01](https://muhmadjaradat.github.io/Reading-note/Code401/Read01)
 * [Class-02]
 * [Class-03]
 * [Class-04]
