@@ -59,7 +59,7 @@ My [GitHub](https://github.com/muhmadJaradat)
 
 * [Class-01](https://muhmadjaradat.github.io/Reading-note/Code401/Read01)
 * [Class-02](https://muhmadjaradat.github.io/Reading-note/Code401/Read02)
-* [Class-03]
+* [Class-03](https://muhmadjaradat.github.io/Reading-note/Code401/Read03)
 * [Class-04]
 * [Class-05]
 * [Class-06]
