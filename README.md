@@ -63,11 +63,11 @@ My [GitHub](https://github.com/muhmadJaradat)
 * [Class-04](https://muhmadjaradat.github.io/Reading-note/Code401/Read04)
 * [Class-05](https://muhmadjaradat.github.io/Reading-note/Code401/Read05)
 * [Class-06](https://muhmadjaradat.github.io/Reading-note/Code401/Read06)
-* [Class-07](https://muhmadjaradat.github.io/Reading-note/Code401/Read08)
-* [Class-08]
-* [Class-09]
+* [Class-08](https://muhmadjaradat.github.io/Reading-note/Code401/Read08)
+* [Class-09](https://muhmadjaradat.github.io/Reading-note/Code401/Read09)
 * [Class-10]
 * [Class-11]
 * [Class-12]
 * [Class-13]
 * [Class-14]
+* [Class-15]
